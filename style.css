@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-size: cover;
+  color: blanchedalmond;
+  background-image: url(color.jpg);
+}
+
+h1 {
+  font-size: 50px;
+  padding-top: 100px;
+  padding-left: 30px;
+  text-shadow: 2px 2px 2px rgb(197, 157, 157);
+}
+
+p {
+  font-size: 18px;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: blanchedalmond;
+}
+
+.button:hover {
+  background-color: khaki;
+}
+.button {
+  border-radius: 20px;
+  font-size: 15px;
+  padding-inline: 10px;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list li {
+  display: inline;
+}
+
+.list a {
+  color: white;
+  font-size: 50px;
+}
